@@ -1,0 +1,13 @@
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\obj\Debug\netcoreapp3.1\ifoodconsole.csprojAssemblyReference.cache
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\obj\Debug\netcoreapp3.1\ifoodconsole.csproj.CoreCompileInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\obj\Debug\netcoreapp3.1\ifoodconsole.AssemblyInfoInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\obj\Debug\netcoreapp3.1\ifoodconsole.AssemblyInfo.cs
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\bin\Debug\netcoreapp3.1\ifoodconsole.exe
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\bin\Debug\netcoreapp3.1\ifoodconsole.deps.json
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\bin\Debug\netcoreapp3.1\ifoodconsole.runtimeconfig.json
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\bin\Debug\netcoreapp3.1\ifoodconsole.runtimeconfig.dev.json
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\bin\Debug\netcoreapp3.1\ifoodconsole.dll
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\bin\Debug\netcoreapp3.1\ifoodconsole.pdb
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\obj\Debug\netcoreapp3.1\ifoodconsole.dll
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\obj\Debug\netcoreapp3.1\ifoodconsole.pdb
+C:\Users\Phellipe\Desktop\senai\c#\ifoodconsole\obj\Debug\netcoreapp3.1\ifoodconsole.genruntimeconfig.cache
